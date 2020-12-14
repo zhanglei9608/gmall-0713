@@ -6,7 +6,7 @@
 	<artifactId>gmall-admin</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<description>gmall-admin</description>exit
+	<description>gmall-admin</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
